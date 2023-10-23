@@ -2,4 +2,4 @@
 
 ## 1. Weekly Challenges
 
-These are aimed at skilling members in cloud computing concepts that are market ready!
+These are aimed at skilling members in cloud computing concepts that are market ready!!!
